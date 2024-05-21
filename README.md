@@ -13,6 +13,7 @@ A *signup page* is a web page where new users can create an account by providing
 An *admin login* dashboard is a web-based interface that allows administrators to manage and monitor a system or application.
 
 ![Admin Login](https://github.com/InsaneSamie/Tournament/assets/101932418/8dfcccab-79ba-44d7-93b5-c870f819187b)
+![admin login1](https://github.com/InsaneSamie/Tournament/assets/101932418/b8299447-f6b0-40e4-ac1a-fb4ea4efcd95)
 
 <h1 align="center">Admin Dashboard</h1>
 
@@ -32,6 +33,7 @@ An *admin profile* grants specific permissions to users across website, allowing
 A *user login* is a process where a user provides their unique credentials, typically a username and password, to verify their identity and gain access to a specific system or application. The login process authenticates the user and allows them to access their account and associated resources.
 
 ![UserLogin](https://github.com/InsaneSamie/Tournament/assets/101932418/eb92e658-3b8e-40af-abdd-cd0c83bfb68e)
+![UserLogin1](https://github.com/InsaneSamie/Tournament/assets/101932418/f9fce399-0bd9-48aa-863f-a53661f1a0f2)
 
 <h1 align="center">Player Dashboard</h1>
 
